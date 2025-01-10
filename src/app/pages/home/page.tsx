@@ -63,7 +63,7 @@ export default function Home() {
           <div className="carCard">
             <div className="imageContainer">
               <Image 
-                src="/wrangler.webp"
+                src="/2024-jeep-wrangler-sport.jpg"
                 alt="Off-road Vehicle"
                 fill
                 className="object-cover"
