@@ -7,7 +7,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="nav-brand">CarHub</div>
       <ul className="nav-links">
-        <li><Link href="/">Home</Link></li>
+        <li><Link href="/pages/home">Home</Link></li>
         <li><Link href="/pages/about">About</Link></li>
         <li><Link href="/pages/contact">Contact</Link></li>
       </ul>
